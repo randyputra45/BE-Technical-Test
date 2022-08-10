@@ -1,0 +1,19 @@
+{
+	"name": "server",
+	"author": "Randy Christian Saputra",
+	"web": "github.com/randyputra45",
+	"email": "randyputra451@gmail.com",
+	"description": "Technical Challenge SIRCLO SE Intern",
+	"main": "node server.js",
+	"dependencies": {
+		"axios": "^0.26.0",
+		"cors": "^2.8.5",
+		"dotenv": "^16.0.0",
+		"express": "^4.17.3",
+		"mongoose": "^6.2.4",
+		"nodemon": "^2.0.19"
+	},
+	"engines": {
+		"node": "14.x"
+	}
+}
