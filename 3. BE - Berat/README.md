@@ -52,7 +52,9 @@ cd server
 npm install
 ```
 
-4. Start Server
+4. Add dbUri in .env with your MongoDB Atlas database
+
+5. Start Server
 
 ```shell
 npm start
